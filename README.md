@@ -71,7 +71,7 @@ My goal is to build a career as a **Software Quality Assurance Engineer** by com
 ### 📫 Connect With Me
 
 * GitHub: [@amir2601](https://github.com/amir2601)
-* LinkedIn: [Add your LinkedIn profile here]
+* LinkedIn: [https://www.linkedin.com/in/amir-hossin-riad/]
 
 ---
 
