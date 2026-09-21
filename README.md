@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./sqa-banner.png" width="100%" alt="SQA Engineer Banner">
+</div>
+
+<div align="center">
 
 # 👋 Hi, I'm **Amir Hossin Riad**
 
