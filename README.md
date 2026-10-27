@@ -8,7 +8,7 @@
 
 <!-- Animated Typing Terminal -->
 <a href="https://github.com/amir2601">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=Software+Quality+Assurance+Engineer;Developer+%E2%86%92+SQA+%E2%86%92+Automation+Specialist;Breaking+Software+To+Engineer+Resilience;Manual+%7C+API+%7C+Playwright+%7C+Selenium" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=Junior+Software+Quality+Assurance+Engineer;Developer+%E2%86%92+SQA+%E2%86%92+Test+Automation;Breaking+Code+To+Engineer+Quality;Manual+%7C+API+%7C+Playwright+%7C+Selenium" alt="Typing Animation" />
 </a>
 
 <br><br>
@@ -25,9 +25,9 @@
 ```yaml
 [SYSTEM_TELEMETRY]
 OPERATOR     : Amir Hossin Riad
-ROLE         : Software Quality Assurance Engineer
+ROLE         : Junior SQA Engineer
 CORE_PIPELINE: Software Development >> SQA >> Test Automation
-CURRENT_FOCUS: API Testing | End-to-End Automation Frameworks | Defect Analysis
+CURRENT_FOCUS: Manual Testing | API Testing | Test Automation
 DIRECTIVE    : Deconstruct architectures, isolate edge cases, guarantee resilience.
 ```
 
@@ -122,7 +122,7 @@ flowchart LR
                 |
                 v
 +--------------------------------+
-| SQA Automation Specialist      |
+| Junior SQA Engineer            |
 +--------------------------------+
 ```
 
